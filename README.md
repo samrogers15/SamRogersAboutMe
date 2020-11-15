@@ -1,4 +1,4 @@
-# Homework2_SR
+# Sam Rogers About Me Page
 This is the file repository for Homework #2 due on 11/14/20.
 
 This repository contains the code for a website I developed that has multiple different html pages. The first page is an About Me page, the second page allows a user to enter in contact information, and the third page is a portfolio of images of me and things that are important to me.
@@ -7,6 +7,12 @@ There are three html pages: "index.html", "contact.html", and "portfolio.html". 
 
 The page is responsive such that when you resize the page, it reformats for ease of viewing on mobile, tablet, or desktop screens.
 
+Here is the live link for the html page:
+
+https://samrogers15.github.io/SamRogersAboutMe/
+
 Here are screenshots of the live pages:
+
+![Sam Rogers About Me Screenshot](./assets/images/SamRogersAboutMeScreenshot.png)
 
 
