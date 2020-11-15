@@ -1,0 +1,46 @@
+/* This code sets the font style for the entire page */
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+/* This style code makes the container float left and gives it padding on the page */
+.container {
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+/* This style code sets the style of the card element */
+.card {
+    width: 75%;
+    background-color: rgb(241, 241, 241);
+}
+
+/* This style code sets the font size and padding for all of the title rows on the card */
+.col1 {
+    font-size: 38px;
+    padding-left: 20px;
+}
+
+/* This style code makes it so the image on the About Me page floats left and allows the text to wrap around it. */
+.row2 img {
+    float: left;
+    width: 100%;
+    height: auto;
+    padding-right: 20px;
+    padding-bottom: 15px;
+}
+
+/* This style code sets the style for the images in the portfolio html page. */
+.row2portfolio img,
+.row3portfolio img,
+.row4portfolio img {
+    width: 100%;
+    height: auto;
+    padding-bottom: 15px;
+}
+
+/* This style code gives the Submit button on the Contact page some space underneath it. */
+.row4 {
+    padding-bottom: 20px;
+}
