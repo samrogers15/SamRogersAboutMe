@@ -13,6 +13,4 @@ https://samrogers15.github.io/SamRogersAboutMe/
 
 Here are screenshots of the live pages:
 
-![Sam Rogers About Me Screenshot](./assets/images/SamRogersAboutMeScreenshot.png)
-
-
+![Sam Rogers About Me Screenshot](/assets/Images/SamRogersAboutMeScreenshot.png)
